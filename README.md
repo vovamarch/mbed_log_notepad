@@ -22,11 +22,16 @@ This step specifies the background for the default global style that is applied 
 * Select the target theme via _Select Theme_ dropdown menu
 * Select _Global Styles_ in the **Languages:** area and _Global override_ in the **Style:** area. Configure the background color and check the _Enable global background color_ item.
 
+![Style Configurator Dialog](https://github.com/vovamarch/mbed_log_notepad/blob/master/docs/StyleConfigurator.jpg)
+
 ###Step 4: View mbed logs in color
 Open an mbed log in Notepad++. Then click on Menu item _Language_ and in the dropdown list select _mbed_log_darkStyle_ if you use dark background or m_bed_log_lightStyle_ if you use light background. The view shall be as shown below.
 
+**DarkStyle View:**
+![DarkStyle View](https://github.com/vovamarch/mbed_log_notepad/blob/master/docs/darkStyleLogScreenShot.jpg)
+
+**LightStyle View:**
+![LightStyle View](https://github.com/vovamarch/mbed_log_notepad/blob/master/docs/lightStyleLogScreenShot.jpg)
 
 ## Customization
-It is possible to further customize the styles for the language. This can be done via Notepad++ Menu item Language=>Define your language... dialog and selection of corresponding language in _User language_ item. The main styles are defined in _Operators &Delimiters_ Tab.
-
-
+It is possible to further customize the styles. This can be done via Notepad++ Menu item _Language=>Define your language..._ dialog and selection of corresponding language in _User language_ item. The main styles are defined in _Operators &Delimiters_ Tab.
